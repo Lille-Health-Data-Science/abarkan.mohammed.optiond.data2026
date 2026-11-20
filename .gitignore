@@ -1,0 +1,8 @@
+﻿.env
+config/
+logs/
+donnees/
+__pycache__/
+*.pyc
+*.duckdb
+*.duckdb.wal
